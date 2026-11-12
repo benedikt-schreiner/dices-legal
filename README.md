@@ -1,7 +1,7 @@
 # dices-legal
 
 Public legal pages (Impressum / Datenschutzerklärung / Legal Notice / Privacy Policy) for the
-[Dices](https://github.com/benedikt-schreiner/dices) app, hosted via GitHub Pages.
+[Dice](https://github.com/benedikt-schreiner/dices) app, hosted via GitHub Pages.
 
 Apple App Store Connect and Google Play Console both require a publicly reachable Privacy
 Policy URL — this repo exists to serve that URL (in-app legal text alone is not sufficient).
